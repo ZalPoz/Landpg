@@ -1,6 +1,6 @@
-# Creative Studio - Minimalist Landing Page
+# Creative Studio - Minimalist Page
 
-A sleek, modern, and single-page business landing page template built using clean HTML5 and CSS3. This template features a responsive layout, a contemporary linear gradient hero section, and an interactive three-column features grid, making it an ideal starting point for creative studios, personal portfolios, or digital agencies.
+A sleek, modern, and single-page business page template built using clean HTML5 and CSS3. This template features a responsive layout, a contemporary linear gradient hero section, and an interactive three-column features grid, making it an ideal starting point for creative studios, personal portfolios, or digital agencies.
 
 ## 🚀 Live Demo & Visuals
 
